@@ -1,0 +1,15 @@
+body {
+    background-color:#bbbfca;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+ul{
+    color:#393e46;
+}
+p{
+    color:#707070 ;
+    font-style: italic;
+}
+h2{
+    color: rgb(56, 40, 19);
+
+}
